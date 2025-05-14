@@ -1,0 +1,9 @@
+[package]
+name = "test-1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.41"
+rand = "0.9.1"
+thiserror = "2.0.12"
